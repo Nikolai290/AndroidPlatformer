@@ -19,3 +19,4 @@ https://drive.google.com/file/d/1CxEw3qZz04KwRSjJgcbRkm2SSLSEZDpe/view?usp=shari
 Таймер прохождения уровня
 Триггер завершения уровня
 Меню паузы и кнопка рестарта
+Управление персонажем кнопками на экране
