@@ -7,6 +7,9 @@
 Ссылка на скачивание последнего билда
 https://drive.google.com/file/d/1CxEw3qZz04KwRSjJgcbRkm2SSLSEZDpe/view?usp=sharing
 
+Демо видео
+https://youtu.be/xdhIhpWnhOU
+
 
 Реализованы механики:
 Движение персонажа вправо и влево
